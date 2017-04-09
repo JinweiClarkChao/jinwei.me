@@ -3,7 +3,7 @@
 var blackout_css = document.createElement("style");
 var blackout_css_content = document.createTextNode(
     "#blackout * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}" +
-    "#blackout { background-color: #3C261C; background-image: url(https://dn-jinwei.qbox.me/v.jpg); background-position: center; background-repeat: no-repeat; background-size: cover; font-size: 16px; height: 100%; left: 0; margin: 0; overflow: hidden; position: fixed; text-align: left; top: 0; -webkit-transition: top 0.8s; transition: top 0.8s; width: 100%; z-index: 99999; }" +
+    "#blackout { background-color: #3C261C; background-image: url(https://cdn.clarkzjw.cn/v_compressed.jpg); background-position: center; background-repeat: no-repeat; background-size: cover; font-size: 16px; height: 100%; left: 0; margin: 0; overflow: hidden; position: fixed; text-align: left; top: 0; -webkit-transition: top 0.8s; transition: top 0.8s; width: 100%; z-index: 99999; }" +
     "#blackout.out { top: -150%; }" +
     "#blackout section { background: rgba(0, 0, 0, 0.2); border-radius: 1em; color: white; line-height: 1.5em; margin: 5% auto 3%; max-height: 70%; max-width: 750px; overflow-y: auto; padding: 3%; text-shadow: 1px 3px 3px black; width: 75%; }" +
     "#blackout p { color: white; line-height: 1.5em; text-shadow: 1px 3px 3px black; }" +
