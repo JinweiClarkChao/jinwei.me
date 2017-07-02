@@ -36,7 +36,7 @@ blackout_css.appendChild(blackout_css_content);
     content31.appendChild(document.createTextNode("如果我們同意提供政府這種權力，以後他們還能以各種理由，任意阻擋他們覺得「不適當」的網站。未來許多網站可能被迫自我審查，在你發言的同時，先看看有沒有「敏感詞」。"));
 
     var error451a = document.createElement("a");
-    error451a.setAttribute("href", "https://github.com/clarkzjw/Error451-Blackout/raw/gh-pages/451.PNG");
+    error451a.setAttribute("href", "https://cdn.clarkzjw.cn/451.PNG");
     error451a.setAttribute("target", "_blank");
     error451a.appendChild(document.createTextNode("ERROR 451 錯誤頁面"));
 
